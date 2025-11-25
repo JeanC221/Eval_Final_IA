@@ -11,18 +11,6 @@ El proyecto incluye un pipeline completo desde la exploración inicial hasta la 
 
 ---
 
-# Estructura del Repositorio
-
-Eval_Final_IA/
-│
-├── proyecto_final_IA_diabetes.ipynb # Notebook 
-├── knn_diabetes.c # Implementación del algoritmo KNN en C
-├── diabetes_prediction_dataset.csv # Dataset original 
-└── README.md
-
-
----
-
 # Descripción del Dataset
 
 - Nombre: Diabetes Prediction Dataset

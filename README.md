@@ -3,7 +3,6 @@
 El objetivo es predecir la presencia de diabetes a partir de variables clínicas utilizando técnicas de:
 
 -  Aprendizaje 
--  Aprendizaje 
 -  Reducción de dimensionalidad (PCA, t-SNE)  
 -  Implementación manual de un algoritmo 
 
